@@ -1,9 +1,9 @@
-# KDT_FE7_Mini-Project
+# 휴방
 
 - `Hyubang` : 국내의 모텔, 호텔, 펜션 등 다양한 형태의 숙소를 한눈에 조회하고 예약까지 할 수 있는 `플랫폼` 페이지
 - 숙소 예약 플랫폼
 - 숙소 예약을 위한 여러 기능이 있습니다.
-- 배포링크 : https://fast-campus-mini-project.vercel.app/main (서버 과금 문제로 현재는 닫힌 상태입니다)
+- 배포링크 : https://fast-campus-mini-project.vercel.app (서버 과금 문제로 현재는 닫힌 상태입니다)
 
 <br>
 
